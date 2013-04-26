@@ -24,7 +24,6 @@ var blink = 30000;
 var chat_names = '';
 
 var go_offline_flag = false;
-
 function getOffline() {
     return go_offline_flag;
 }
